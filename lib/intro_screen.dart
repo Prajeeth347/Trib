@@ -48,7 +48,7 @@ class _IntroScreen extends State<IntroScreen>{
           pages: [ //set your page view here
             PageViewModel(
               title: "Title 1",
-              body: "This is a travel app 1",
+              body: "This is a travel app",
               image: introImage('assets/images/img1.png'),
               decoration: pageDecoration,
               footer: FloatingActionButton.extended(
